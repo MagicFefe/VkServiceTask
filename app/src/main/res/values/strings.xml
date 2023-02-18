@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VKServicesTask</string>
+    <string name="error_to_fetch_data">Error to fetch data</string>
+    <string name="check_your_internet">Check your internet</string>
+    <string name="vk_services">VK services</string>
+    <string name="detail">Detail</string>
+</resources>

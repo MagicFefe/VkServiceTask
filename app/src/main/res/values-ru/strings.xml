@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VKServicesTask</string>
+    <string name="error_to_fetch_data">Ошибка при получении данных</string>
+    <string name="check_your_internet">Проверьте подключение к интернету</string>
+    <string name="vk_services">ВК сервисы</string>
+    <string name="detail">Детали</string>
+</resources>
